@@ -27,18 +27,58 @@ export default {
         { 
           id: "0",
           title: "Paddle & Ball",
-          author: "Slaw Paw",
+          author: "Slaw",
           description: "This project was made with Scratch, a block-based coding language created by the MIT Media Lab.",
           link: "https://scratch.mit.edu/projects/351891137/fullscreen/",
-          img: "@/assets/slaw-paw-game.png"
+          img: "https://github.com/HarrisonburgHighSchool/gwc-site/blob/master/src/assets/slaw-paw-game.png"
         },
         { 
-          id: "0",
+          id: "1",
           title: "Click the Balloons!",
-          author: "Ka The Tun",
+          author: "Ka The",
           description: "This project was made with Scratch, a block-based coding language created by the MIT Media Lab.",
           link: "https://scratch.mit.edu/projects/351900021/fullscreen",
-          img: "@/assets/ka-the-game.png"
+          img: "https://raw.githubusercontent.com/HarrisonburgHighSchool/gwc-site/master/src/assets/ka-the-game.png"
+        },
+        { 
+          id: "2",
+          title: "How To Learn Cursive",
+          author: "Arianna",
+          description: "This project was made with HTML and CSS, the language of web development.",
+          link: "#",
+          img: "https://via.placeholder.com/350x250"
+        },
+        { 
+          id: "3",
+          title: "Rakuten Viki Dramafever and Hulu",
+          author: "Chekna",
+          description: "This project was made with HTML and CSS, the language of web development.",
+          link: "https://trinket.io/html/95f1fbc609?e=1",
+          img: "https://raw.githubusercontent.com/HarrisonburgHighSchool/gwc-site/master/src/assets/chekna-app.png"
+        },
+        { 
+          id: "4",
+          title: "Be Happy!",
+          author: "Asende",
+          description: "This project was made with HTML and CSS, the language of web development.",
+          link: "https://trinket.io/html/e06afa9bb4?e=1",
+          img: "https://raw.githubusercontent.com/HarrisonburgHighSchool/gwc-site/master/src/assets/asende-app.png"
+        },
+        { 
+          id: "5",
+          title: "Pronounce Correctly",
+          author: "Melve",
+          description: "This project was made with Thunkable, a block-based coding language for creating mobile applications for iPhone and Android.",
+          link: "#",
+          img: "https://via.placeholder.com/350x250"
+        },
+        { 
+          id: "5",
+          title: "Placeholder",
+          author: "Rita",
+          description: "This project was made with HTML and CSS, the language of web development.",
+          link: "#",
+          img: "https://via.placeholder.com/350x250"
         }
       ]
     }
