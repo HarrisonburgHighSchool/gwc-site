@@ -30,7 +30,7 @@ export default {
           author: "Slaw",
           description: "This project was made with Scratch, a block-based coding language created by the MIT Media Lab.",
           link: "https://scratch.mit.edu/projects/351891137/fullscreen/",
-          img: "https://github.com/HarrisonburgHighSchool/gwc-site/blob/master/src/assets/slaw-paw-game.png"
+          img: "https://raw.githubusercontent.com/HarrisonburgHighSchool/gwc-site/master/src/assets/slaw-paw-game.png"
         },
         { 
           id: "1",
@@ -54,7 +54,7 @@ export default {
           author: "Chekna",
           description: "This project was made with HTML and CSS, the language of web development.",
           link: "https://trinket.io/html/95f1fbc609?e=1",
-          img: "https://raw.githubusercontent.com/HarrisonburgHighSchool/gwc-site/master/src/assets/chekna-app.png"
+          img: "https://raw.githubusercontent.com/HarrisonburgHighSchool/gwc-site/master/src/assets/chekna.png"
         },
         { 
           id: "4",
@@ -62,7 +62,7 @@ export default {
           author: "Asende",
           description: "This project was made with HTML and CSS, the language of web development.",
           link: "https://trinket.io/html/e06afa9bb4?e=1",
-          img: "https://raw.githubusercontent.com/HarrisonburgHighSchool/gwc-site/master/src/assets/asende-app.png"
+          img: "https://raw.githubusercontent.com/HarrisonburgHighSchool/gwc-site/master/src/assets/asende.png"
         },
         { 
           id: "5",
