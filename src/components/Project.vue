@@ -4,7 +4,7 @@
       :title="title"
       :sub-title="'by ' + author"
       :img-src="img"
-      img-alt="project image"
+      :img-alt="img"
       img-top
       tag="project"
       style="max-width: 20rem;"
